@@ -8,3 +8,6 @@ terraform apply <br>
 
 Select us-east-1
 
+Final Output Image:
+
+![image](https://user-images.githubusercontent.com/39983913/139094951-43077f89-eec8-4a8b-826b-4695ccd28945.png)
