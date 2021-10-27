@@ -1,0 +1,21 @@
+[
+  {  "name": "sample-nginx-dev-container",
+     "image": "nginx:latest",
+      "cpu": 10,
+      "memory": 512,
+      "links": [],
+      "portMappings": [
+          { 
+              "hostPort": 80,
+              "containerPort": 80,
+              "protocol": "tcp"
+          }
+      ],
+      "essential": true,
+      "entryPoint": [],
+      "command": [],
+      "environment": [],
+      "mountPoints": [],
+      "volumesFrom": []
+  }
+]
